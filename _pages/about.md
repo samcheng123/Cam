@@ -6,14 +6,21 @@ redirect_from:
   - /about/
   - /about.html
 ---
+News:
+* I was the youngest member admitted to the University of Hong Kong in 2015 (aged 11). I am also probably the youngest member (aged 13) admitted to Cambridge in recent history, but I have not verified this. The title of youngest Senior Wrangler however still belongs to [Arran Fernandez](https://en.wikipedia.org/wiki/Arran_Fernandez). I am now 21, if you are interested.
 
-My name is Chun Wun but people usaully call me Sam, and I am a 2nd and PhD student in the [Cambridge Image Analysis](https://www.damtp.cam.ac.uk/research/cia/cambridge-image-analysis) group, Co -supervised by [Prof. Carola-Bibiane Schönlieb](https://www.damtp.cam.ac.uk/person/cbs31) and [Dr Angelica Aviles Rivero](https://angelicaiaviles.wordpress.com/). My phd was fully Funded by [Swiss National Science Foundation (SNSF)](https://www.snf.ch/en/FKhU9kAtfXx7w9AI/page/home) for four years. I am currently looking for postdoc positions, expected graduation July 2025.
+Who are I?
+======
+My name is Chun Wun but people usaully call me Sam, and I am a 2nd and PhD student in the [Cambridge Image Analysis](https://www.damtp.cam.ac.uk/research/cia/cambridge-image-analysis) group, Co -supervised by [Prof. Carola-Bibiane Schönlieb](https://www.damtp.cam.ac.uk/person/cbs31) and [Dr Angelica Aviles Rivero](https://angelicaiaviles.wordpress.com/). My phd was fully Funded by [Swiss National Science Foundation (SNSF)](https://www.snf.ch/en/FKhU9kAtfXx7w9AI/page/home) for four years. I am currently looking for summer intern in 2025 summer.
 
 What do I work on?
 ======
 My current focus is on machine learning theory, such as the manifold hypothesis and links with learning theory, and generally why machine learning works as a function of *problem, data, optimizer and network*. I aim to answer: *what do we need to assume to make machine learning work?*
 
 My previous work addresses a similar question: *how can we exploit problem structures to make machine learning work?* We combines theoretical guarantees with practical applications, developing provable ML-based algorithms using classical mathematics as a skeleton. This includes **optimization** (convex learning-to-optimize, Plug-and-Play, inverse problems), **MCMC sampling** (noise-free methods, unsupervised learning/ imaging), and **differential geometry** (manifold hypothesis, intrinsic dataset complexity).
+
+What do I work on?
+======
 
 
 Other tidbits
