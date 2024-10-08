@@ -12,7 +12,7 @@ title                    : "Hong Ye's page"
 title_separator          : "-"
 name                     : &name "Hong Ye Tan"
 description              : &description "4th year Mathematics PhD student at the University of Cambridge. Supervised by Prof. Carola-Bibiane Schönlieb."
-url                      : https://samcheng123.github.io/Cam/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://SamChengCam.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "samcheng123/Cam"
 
