@@ -7,28 +7,24 @@ redirect_from:
   - /about.html
 ---
 News:
-* I was the youngest member admitted to the University of Hong Kong in 2015 (aged 11). I am also probably the youngest member (aged 13) admitted to Cambridge in recent history, but I have not verified this. The title of youngest Senior Wrangler however still belongs to [Arran Fernandez](https://en.wikipedia.org/wiki/Arran_Fernandez). I am now 21, if you are interested.
+======
+* 15-10-2024, Invited talk in CityU mathematics department
 
 Who are I?
 ======
 My name is Chun Wun but people usaully call me Sam, and I am a 2nd and PhD student in the [Cambridge Image Analysis](https://www.damtp.cam.ac.uk/research/cia/cambridge-image-analysis) group, Co -supervised by [Prof. Carola-Bibiane Schönlieb](https://www.damtp.cam.ac.uk/person/cbs31) and [Dr Angelica Aviles Rivero](https://angelicaiaviles.wordpress.com/). My phd was fully Funded by [Swiss National Science Foundation (SNSF)](https://www.snf.ch/en/FKhU9kAtfXx7w9AI/page/home) for four years. I am currently looking for summer intern in 2025 summer.
 
-What do I work on?
+Research Interest and Collberation:
 ======
-My current focus is on machine learning theory, such as the manifold hypothesis and links with learning theory, and generally why machine learning works as a function of *problem, data, optimizer and network*. I aim to answer: *what do we need to assume to make machine learning work?*
+My current focus is on deep learning for PDEs, such as neural opearator for PDE soluition, and the application of neural ODEs. In addition, I also work on Visoon Language model, medical imaging, inverser problem and diffusion models.  See my publication for more details*
 
-My previous work addresses a similar question: *how can we exploit problem structures to make machine learning work?* We combines theoretical guarantees with practical applications, developing provable ML-based algorithms using classical mathematics as a skeleton. This includes **optimization** (convex learning-to-optimize, Plug-and-Play, inverse problems), **MCMC sampling** (noise-free methods, unsupervised learning/ imaging), and **differential geometry** (manifold hypothesis, intrinsic dataset complexity).
+I’m open to collaborations in all forms related to my research interest and would love to explore any opportunities! Feel free to contact me by Email cwc56[AT] cam.ac.uk. Collaborating with me offers several potential benefits: [1] Research Publications: You’ll have the opportunity to co-author research papers, potentially contributing to high-impact journals and conferences, provided that you commit and work diligently. [2] Collaborative and Supportive Network: You’ll get the chance to work with renowned supervisors like Dr. Angelica I. Aviles-Rivero and Prof. Carola-Bibiane Schönlieb, as well as strong collaborators from Cambridge University and beyond. 
 
-What do I work on?
-======
+
 
 
 Other tidbits
 ------
-* I was the youngest member admitted to the University of Hong Kong in 2015 (aged 11). I am also probably the youngest member (aged 13) admitted to Cambridge in recent history, but I have not verified this. The title of youngest Senior Wrangler however still belongs to [Arran Fernandez](https://en.wikipedia.org/wiki/Arran_Fernandez). I am now 21, if you are interested.
+* I am is the first BSc Computing Mathematics graduate admitted with 4-year full scholarship for PhD study at the University of Cambridge since 1994. t[Link from CityU](https://www.cityu.edu.hk/csci/news-events/news-and-achievements/first-bsc-computing-maths-local-graduate-obtained-full). 
 
-* I do all the coding and 98% of the writing for my first-author papers. Feel free to use the code from any of my work, and do send me an email if you have any questions, as the codebases online are quite dirty due to scattered computational resources.
 
-* I am a [Masason Foundation](https://masason-foundation.org/en/) scholar of 6 years.
-
-* I also like [classical piano](https://www.youtube.com/watch?v=ievpSwyvxoE), food, badminton, and birds. I have also dabbled in fencing and small-bore rifle shooting.
