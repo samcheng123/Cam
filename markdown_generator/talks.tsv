@@ -1,0 +1,8 @@
+title	type	url_slug	venue	date	location	talk_url	description	link					
+Data-driven Optimization via Mirror Descent	Department Seminar	talk-ox23	Oxford-CUHK Joint Seminar Series	2023-10-17	"Oxford, UK (Online)"		Part of the joint seminar series with City University of Hong Kong and Mathematical Institute at University of Oxford.						
+Learned Mirror Descent/Accelerating Plug-and-Play	Department Seminar	talk-ucla23	Level Set Meeting	2023-07-31	"Los Angeles, CA"								
+Data-Driven Convex Optimization via Mirror Descent	Mini-symposium Talk	talk-iciam23	ICIAM 2023	2023-08-25	"Tokyo, Japan"	https://iciam2023.org/registered_data?id=00184#01555	"Part of the mini symposium ""Recent advances in data-driven methods for inverse problems”."						
+Data-Driven Geometry for Convex Optimization	Workshop Talk	talk-icms24	Big Data Inverse Problems Workshop	2024-05-23	"Edinburgh, UK"			/files/slides_ICMS_BigDataInverseProblems_2024.pdf					
+Noise-Free Sampling Algorithms via Regularized Wasserstein Proximals	Mini-symposium Talk	talk-siamis24	SIAM Conference on Imaging Science 2024	2024-05-28	"Atlanta, GA"	https://meetings.siam.org/sess/dsp_talk.cfm?p=135963	Part of the mini symposium “SDE- and PDE-based Sampling Methods for Imaging Inverse Problems”.	/files/BRWP_poster.pdf					
+Data-driven Mirror Descent with Acceleration and Robustness	Talk	talk-gsk23	GSK.ai PhD Symposium	2023-04-18	"Stevenage, UK"								
+Deterministic Sampling with Wasserstein Proximals	Poster	poster-OT24	Workshop on Optimal Transport: From Theory to Applications	2024-03-14	"Berlin, Germany"		Poster presentation. Poster pitch can be found [here](https://hyt35.github.io/files/BRWP_poster_pitch.pdf)	/files/BRWP_poster.pdf					

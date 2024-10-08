@@ -1,0 +1,8 @@
+pub_date	title	venue	excerpt	published	url_slug	paper_url	arxiv	
+2023-05-05	Robust Data-Driven Accelerated Mirror Descent	IEEE International Conference on Acoustics, Speech and Signal Processing		TRUE	lamd	https://ieeexplore.ieee.org/abstract/document/10096875	https://arxiv.org/abs/2210.12238	
+2023-06-26	Data-driven mirror descent with input-convex neural networks	SIAM Journal on Mathematics of Data Science		TRUE	icnn-md	https://epubs.siam.org/doi/full/10.1137/22M1508613	https://arxiv.org/abs/2206.06733	
+2024-04-02	Provably convergent plug-and-play quasi-newton methods	SIAM Journal on Imaging Sciences		TRUE	pnp-qn	https://epubs.siam.org/doi/full/10.1137/23M157185X	https://arxiv.org/abs/2303.07271	
+2023-08-30	Noise-Free Sampling Algorithms via Regularized Wasserstein Proximals	Research in Mathematical Sciences		FALSE	wass-prox		https://arxiv.org/abs/2308.14945	
+2024-05-09	Boosting Data-Driven Mirror Descent with Randomization, Equivariance, and Acceleration	Transactions on Machine Learning Research		TRUE	lmd-exts	https://openreview.net/forum?id=r2dx1s1lqG	https://arxiv.org/abs/2308.05045	
+2024-04-08	Unsupervised Training of Convex Regularizers using Maximum Likelihood Estimation			FALSE	mle-regu		https://arxiv.org/abs/2404.05445	
+2024-08-13	Blessing of Dimensionality for Approximating Sobolev Classes on Manifolds			FALSE	dim-sobolev		https://arxiv.org/abs/2408.06996	
