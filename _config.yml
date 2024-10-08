@@ -21,7 +21,7 @@ repository               : "samcheng123/Cam"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpeg"
+  avatar           : "profile.JPG"
   name             : "Chun Wun (Sam) Cheng"
   pronouns         : # example: "she/her"  
   bio              : "4th year Mathematics PhD student - machine learning theory, optimization, manifold hypothesis, provable algorithmic design."
