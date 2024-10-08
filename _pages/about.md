@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Hong Ye, and I am a 4th and final year PhD student in the [Cambridge Image Analysis](https://www.damtp.cam.ac.uk/research/cia/cambridge-image-analysis) group, supervised by [Prof. Carola-Bibiane Schönlieb](https://www.damtp.cam.ac.uk/person/cbs31). Funded by [GSK.ai](https://gsk.ai/). I am co-supervised by [Prof. Subhadip Mukherjee](https://sites.google.com/view/subhadip-mukherjee/home) and [Prof. Junqi Tang](https://junqitang.com/), and my industrial supervisor is Dr. Alexandra Pettet. I am currently looking for postdoc positions, expected graduation July 2025.
+My name is Chun Wun but people usaully call me Sam, and I am a 2nd and PhD student in the [Cambridge Image Analysis](https://www.damtp.cam.ac.uk/research/cia/cambridge-image-analysis) group, Co -supervised by [Prof. Carola-Bibiane Schönlieb](https://www.damtp.cam.ac.uk/person/cbs31) and [Dr Angelica Aviles Rivero](https://angelicaiaviles.wordpress.com/). My phd was fully Funded by [Swiss National Science Foundation (SNSF)](https://www.snf.ch/en/FKhU9kAtfXx7w9AI/page/home) for four years. I am currently looking for postdoc positions, expected graduation July 2025.
 
 What do I work on?
 ======
