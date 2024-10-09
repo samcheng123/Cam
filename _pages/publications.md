@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-I have authored <b>5</b> research papers in total. Of these, I am the first author on 2 and the second author on 3. 2 of my papers have been accepted by journals, while the remaining 3 are currently under review.
+Summary: I have authored <b>5</b> research papers in total. Of these, I am the first author on 2 and the second author on 3. 2 of my papers have been accepted by journals, while the remaining 3 are currently under review.
 
 Journal Papers:
 ======
