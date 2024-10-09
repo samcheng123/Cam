@@ -5,10 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
 Who are I?
 ======
 My name is Chun Wun but people usaully call me Sam, and I am a 2nd and PhD student in the [Cambridge Image Analysis](https://www.damtp.cam.ac.uk/research/cia/cambridge-image-analysis) group, Co -supervised by [Prof. Carola-Bibiane Schönlieb](https://www.damtp.cam.ac.uk/person/cbs31) and [Dr Angelica Aviles Rivero](https://angelicaiaviles.wordpress.com/). My phd was fully Funded by [Swiss National Science Foundation (SNSF)](https://www.snf.ch/en/FKhU9kAtfXx7w9AI/page/home) for four years. I am currently looking for summer intern in 2025 summer.
