@@ -25,6 +25,6 @@ I’m open to collaborations in all forms related to my research interest and wo
 
 Other tidbits
 ------
-* I am is the first BSc Computing Mathematics graduate admitted with 4-year full scholarship for PhD study at the University of Cambridge since 1994. t[Link from CityU](https://www.cityu.edu.hk/csci/news-events/news-and-achievements/first-bsc-computing-maths-local-graduate-obtained-full). 
+* I am the first BSc Computing Mathematics graduate admitted with 4-year full scholarship for PhD study at the University of Cambridge since 1994. [Link from CityU](https://www.cityu.edu.hk/csci/news-events/news-and-achievements/first-bsc-computing-maths-local-graduate-obtained-full). 
 
 
