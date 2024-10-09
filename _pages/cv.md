@@ -28,29 +28,16 @@ Research Experience
     codebook, and precise watermark detection through token extraction and codebook comparison.
   * Supervisor: Dr. Juil Sock, Dr. Marc G´orriz Blanch and Dr. Woody Bayliss (BBC)
 
-* 2023 Jul-Aug: Research Assistan at City University of Hong Kong - Department of Mathematics
+* 2022 Aug- 2023 April: Final Year Project at City University of Hong Kong - Department of Mathematics
   * Fin-tech Research about mathematical finance and prompt engineering.
   * Supervisors: [Professor Raymond H. Chan](https://www.ln.edu.hk/po/people/professor-raymond-chan-hon-fu)
 
-* 2022 Jan-Jun: External Research Assistant
-  * Schlumberger
-  * Numerical method to separate mixed signals with greedy fitting.
-  * Supervisor: Dr. Can Evren Yarman
+* 2023 Jul- 2023 Aug: Research Assistan at City University of Hong Kong - Department of Mathematics
+  * Shape Reconstruction via a machine learning approach
+  * Try to build a new approach, combine NODE with shape reconstruction from a picture
+  * Supervisors: [Professor Hongyu Liu (CityU)](https://www.cityu.edu.hk/stfprofile/hyliu.htm)
 
-* 2021 Aug-Oct: Summer Intern
-  * Faraday Predictive
-  * Signal spectral abnormality detection in the low-data regime using clustering techniques.
-  * Supervisors: Geoff Walker, Andrew Bates
 
-* 2021 Jul-Aug: Summer Intern
-  * Applied Cryptosystems Department, ASTRI
-  * Testing federated machine learning frameworks for secure distributed learning.
-  * Supervisor: Dr. Kam Hong Shum
-
-* 2020 Jul-Sep: Summer Research Assistant
-  * DAMTP, University of Cambridge
-  * Researching methods to predict glioblastoma subtypes using MRI and histology.
-  * Supervisor: Dr. Chao Li
   
 Skills
 ======
