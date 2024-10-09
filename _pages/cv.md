@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* PhD in Applied Mathematics, DAMTP, University of Cambridge, 2021-2025
-* MMath and BA, University of Cambridge, 2017-2021
-* (Incomplete) BEng(CompSc), University of Hong Kong, 2015-2017
+* <b>PhD in Mathematics of Information, University of Cambridge, 2023-2027</b>
+  SNSF Scholar: 4 year full PhD scholarship (200000 GBP)
+* <b>Bachlear Degree in Computing Mathematics, City Universiy of Hong Kong, 2019-2023 </b>
+  First Class honours, 3 times Dean’s List and first BSc Computing Mathematics graduate admitted
+  with 4-year full scholarship for PhD study at the University of Cambridge since 1994. [Link from CityU](https://www.cityu.edu.hk/csci/news-events/news-and-achievements/first-bsc-computing-maths-local-graduate-obtained-full). 
 <!-- * B.S. in GitHub, GitHub University, 2012 -->
 
 Work experience
