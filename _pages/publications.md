@@ -13,13 +13,13 @@ Sergio Calvo Ordoñez, <b> Chun-Wun Cheng </b>, Jiahao Huang, Lipei Zhang, Guang
 Published at Transactions on Machine Learning Research (TMLR 04/2024)
 
 * <b>[J1]</b> [Continuous U-Net: Faster, Greater and Noiseless](https://openreview.net/pdf?id=ongi2oe3Fr) <br>
-<b> Cheng, Chun-Wun* </b>, Christina Runkel*, Lihao Liu*, Raymond H. Chan, Carola-Bibiane Schönlieb, and Angelica I. Aviles-Rivero.  (* indicates equal contributions) <br>
+<b> Cheng, Chun-Wun(Co-first Author) </b>, Christina Runkel(Co-first Author), Lihao Liu(Co-first Author), Raymond H. Chan, Carola-Bibiane Schönlieb, and Angelica I. Aviles-Rivero. <br>
 Published at Transactions on Machine Learning Research (TMLR 04/2024)
 
 Under Review
 ======
 * <b>[U3]</b> [Mamba Neural Operator: Who Wins? Transformers vs. State-Space Models for PDEs](https://export.arxiv.org/abs/2410.02113) <br>
-Chun-Wun Cheng*, Jiahao Huang*,  Yi Zhang, Guang Yang, Carola-Bibiane Schönlieb, Angelica I Aviles-Rivero. (* indicates equal contributions) <br>
+<b>Chun-Wun Cheng</b>(Co-first Author), Jiahao Huang(Co-first Author),  Yi Zhang, Guang Yang, Carola-Bibiane Schönlieb, Angelica I Aviles-Rivero.  <br>
 Under Review
 
 * <b>[U2]</b> [NODE-Adapter: Neural Ordinary Differential Equations for Better Vision-Language Reasoning](https://arxiv.org/pdf/2407.08672) <br>
