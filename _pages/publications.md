@@ -4,12 +4,13 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+Total :
 
-Who are I?
+Journal Papers?
 ======
 My name is Chun Wun but people usaully call me Sam, and I am a 2nd and PhD student in the [Cambridge Image Analysis](https://www.damtp.cam.ac.uk/research/cia/cambridge-image-analysis) group, Co -supervised by [Prof. Carola-Bibiane Schönlieb](https://www.damtp.cam.ac.uk/person/cbs31) and [Dr Angelica Aviles Rivero](https://angelicaiaviles.wordpress.com/). My phd was fully Funded by [Swiss National Science Foundation (SNSF)](https://www.snf.ch/en/FKhU9kAtfXx7w9AI/page/home) for four years. I am currently looking for summer intern in 2025 summer.
 
-Research Interest and Collberation:
+Conference papers
 ======
 My current focus is on deep learning for PDEs, such as neural opearator for PDE soluition, and the application of neural ODEs. In addition, I also work on Visoon Language model, medical imaging, inverser problem and diffusion models.  See my publication for more details*
 
