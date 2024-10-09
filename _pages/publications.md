@@ -4,12 +4,14 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Total :
+I have authored 5 research papers in total. Of these, I am the first author on 2 and the second author on 3. 2 of my papers have been accepted by journals, while the remaining 3 are currently under review.
 
-Journal Papers?
+Journal Papers
 ======
-My name is Chun Wun but people usaully call me Sam, and I am a 2nd and PhD student in the [Cambridge Image Analysis](https://www.damtp.cam.ac.uk/research/cia/cambridge-image-analysis) group, Co -supervised by [Prof. Carola-Bibiane Schönlieb](https://www.damtp.cam.ac.uk/person/cbs31) and [Dr Angelica Aviles Rivero](https://angelicaiaviles.wordpress.com/). My phd was fully Funded by [Swiss National Science Foundation (SNSF)](https://www.snf.ch/en/FKhU9kAtfXx7w9AI/page/home) for four years. I am currently looking for summer intern in 2025 summer.
+* The Missing U for Efficient Diffusion Models <br>
+Sergio Calvo Ordoñez, <b> Chun-Wun Cheng </b>, Jiahao Huang, Lipei Zhang, Guang Yang, Carola-Bibiane Schönlieb, Angelica I Aviles-Rivero
 
+[Prof. Carola-Bibiane Schönlieb](https://www.damtp.cam.ac.uk/person/cbs31) *
 Conference papers
 ======
 My current focus is on deep learning for PDEs, such as neural opearator for PDE soluition, and the application of neural ODEs. In addition, I also work on Visoon Language model, medical imaging, inverser problem and diffusion models.  See my publication for more details*
