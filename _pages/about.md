@@ -8,7 +8,8 @@ redirect_from:
 ---
 News:
 ======
-* 15-10-2024, Invited talk in CityU mathematics department. [Link](https://www.cityu.edu.hk/ma/sites/g/files/asqsls6306/files/2024-10/col_20241015.pdf)
+* Nov - 2024: Our technical and performance survey on INR is out as <a href="https://arxiv.org/pdf/2411.03688">preprint</a>
+* Oct - 2024: Invited talk in CityU mathematics department. [Link](https://www.cityu.edu.hk/ma/sites/g/files/asqsls6306/files/2024-10/col_20241015.pdf)
 
 Who are I?
 ======
