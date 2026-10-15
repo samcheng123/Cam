@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://samcheng123.github.io/Cam/sitemap.xml

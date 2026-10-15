@@ -1,0 +1,218 @@
+[
+  {
+    "id": "J5",
+    "title": "Training-Free Dual Hyperbolic Adapters for Better Cross-Modal Reasoning",
+    "authors": ["Yi Zhang", "Chun-Wun Cheng", "Junyi He", "Ke Yu", "Yushun Tang", "Carola-Bibiane Schönlieb", "Zhihai He", "Angelica I. Aviles-Rivero"],
+    "year": 2025,
+    "category": "journal",
+    "venue": "IEEE Transactions on Multimedia",
+    "links": [{"label": "Paper", "url": "https://ieeexplore.ieee.org/document/11397207"}, {"label": "arXiv", "url": "https://arxiv.org/abs/2512.08820"}]
+  },
+  {
+    "id": "J4",
+    "title": "Mamba Neural Operator: Who Wins? Transformers vs. State-Space Models for PDEs",
+    "authors": ["Chun-Wun Cheng*", "Jiahao Huang*", "Yi Zhang", "Guang Yang", "Carola-Bibiane Schönlieb", "Angelica I. Aviles-Rivero"],
+    "year": 2025,
+    "category": "journal",
+    "venue": "Journal of Computational Physics",
+    "description": "State-space models and transformers for learning PDE solution operators.",
+    "links": [{"label": "Paper", "url": "https://www.sciencedirect.com/science/article/pii/S0021999125008496"}, {"label": "arXiv", "url": "https://arxiv.org/abs/2410.02113"}, {"label": "Code", "url": "https://github.com/Math-ML-X/Mamba-Neural-Operator"}]
+  },
+  {
+    "id": "J3",
+    "title": "Where Do We Stand with Implicit Neural Representations? A Technical and Performance Survey",
+    "authors": ["Amer Essakine*", "Yanqi Cheng*", "Chun-Wun Cheng", "Lipei Zhang", "Zhongying Deng", "Lei Zhu", "Carola-Bibiane Schönlieb", "Angelica I. Aviles-Rivero"],
+    "year": 2025,
+    "category": "journal",
+    "venue": "Transactions on Machine Learning Research",
+    "links": [{"label": "Paper", "url": "https://openreview.net/forum?id=QTsJXSvAI2"}, {"label": "arXiv", "url": "https://arxiv.org/abs/2411.03688"}]
+  },
+  {
+    "id": "J2",
+    "title": "The Missing U for Efficient Diffusion Models",
+    "authors": ["Sergio Calvo Ordoñez", "Chun-Wun Cheng", "Jiahao Huang", "Lipei Zhang", "Guang Yang", "Carola-Bibiane Schönlieb", "Angelica I. Aviles-Rivero"],
+    "year": 2024,
+    "category": "journal",
+    "venue": "Transactions on Machine Learning Research",
+    "links": [{"label": "Paper", "url": "https://openreview.net/forum?id=Y4YWzBiTEV"}]
+  },
+  {
+    "id": "J1",
+    "title": "Continuous U-Net: Faster, Greater and Noiseless",
+    "authors": ["Chun-Wun Cheng*", "Christina Runkel*", "Lihao Liu*", "Raymond H. Chan", "Carola-Bibiane Schönlieb", "Angelica I. Aviles-Rivero"],
+    "year": 2024,
+    "category": "journal",
+    "venue": "Transactions on Machine Learning Research",
+    "description": "Continuous U-Net architectures for efficient, noise-robust image analysis.",
+    "links": [{"label": "Paper", "url": "https://openreview.net/forum?id=ongi2oe3Fr"}]
+  },
+  {
+    "id": "C6",
+    "title": "MAP-Diff: Multi-Anchor Guided Diffusion for Progressive 3D Whole-Body Low-Dose PET Denoising",
+    "authors": ["Peiyuan Jing", "Chun-Wun Cheng", "Liutao Yang", "Zhenxuan Zhang", "Thiago V. Lima", "Klaus Strobel", "Antoine Leimgruber", "Angelica Aviles-Rivero", "Guang Yang", "Javier A. Montoya-Zegarra"],
+    "year": 2026,
+    "category": "conference",
+    "venue": "MICCAI",
+    "distinction": "Oral presentation",
+    "description": "Multi-anchor guided diffusion for progressive 3D low-dose PET denoising.",
+    "links": [{"label": "arXiv", "url": "https://arxiv.org/abs/2603.02012"}]
+  },
+  {
+    "id": "C5",
+    "title": "ProSMA-UNet: Decoder Conditioning for Proximal-Sparse Skip Feature Selection",
+    "authors": ["Chun-Wun Cheng", "Yanqi Cheng", "Peiyuan Jing", "Guang Yang", "Javier A. Montoya-Zegarra", "Carola-Bibiane Schönlieb", "Angelica I. Aviles-Rivero"],
+    "year": 2026,
+    "category": "conference",
+    "venue": "MICCAI",
+    "distinction": "Oral presentation · Early accept",
+    "description": "Decoder-conditioned sparse feature selection in U-Net skip connections.",
+    "links": [{"label": "arXiv", "url": "https://arxiv.org/abs/2603.03187"}, {"label": "Project", "url": "https://math-ml-x.github.io/ProSMA-UNet/"}]
+  },
+  {
+    "id": "C4",
+    "title": "3D Wavelet-Based Structural Priors for Controlled Diffusion in Whole-Body Low-Dose PET Denoising",
+    "authors": ["Peiyuan Jing", "Yue Yang", "Chun-Wun Cheng", "Zhenxuan Zhang", "Liutao Yang", "Thiago V. Lima", "Klaus Strobel", "Antoine Leimgruber", "Angelica Aviles-Rivero", "Guang Yang", "Javier A. Montoya-Zegarra"],
+    "year": 2026,
+    "category": "conference",
+    "venue": "ICPR",
+    "links": [{"label": "arXiv", "url": "https://arxiv.org/abs/2601.07093"}]
+  },
+  {
+    "id": "C3",
+    "title": "Training-Free Test-Time Adaptation with Brownian Distance Covariance in Vision-Language Models",
+    "authors": ["Yi Zhang", "Chun-Wun Cheng", "Angelica I. Aviles-Rivero", "Zhihai He", "Liang-Jie Zhang"],
+    "year": 2026,
+    "category": "conference",
+    "venue": "ICASSP",
+    "links": [{"label": "arXiv", "url": "https://arxiv.org/abs/2601.23253"}]
+  },
+  {
+    "id": "C2",
+    "title": "Implicit U-KAN2.0: Dynamic, Efficient and Interpretable Medical Image Segmentation",
+    "authors": ["Chun-Wun Cheng*", "Yining Zhao*", "Yanqi Cheng", "Javier A. Montoya-Zegarra", "Carola-Bibiane Schönlieb", "Angelica I. Aviles-Rivero"],
+    "year": 2025,
+    "category": "conference",
+    "venue": "MICCAI",
+    "description": "Dynamic and interpretable medical image segmentation with implicit U-KAN architectures.",
+    "links": [{"label": "arXiv", "url": "https://arxiv.org/abs/2503.03141"}, {"label": "Project", "url": "https://math-ml-x.github.io/IUKAN2/"}]
+  },
+  {
+    "id": "C1",
+    "title": "Cross-Modal Few-Shot Learning with Second-Order Neural Ordinary Differential Equations",
+    "authors": ["Yi Zhang*", "Chun-Wun Cheng*", "Junyi He", "Zhihai He", "Carola-Bibiane Schönlieb", "Yuyan Chen", "Angelica I. Aviles-Rivero"],
+    "year": 2025,
+    "category": "conference",
+    "venue": "AAAI",
+    "distinction": "Oral presentation",
+    "description": "Second-order neural ODEs for cross-modal learning from few examples.",
+    "links": [{"label": "arXiv", "url": "https://arxiv.org/abs/2412.15813"}]
+  },
+  {
+    "id": "U12",
+    "title": "CholQuant: Cholesky-Conditioned Fractional Whitening for LLM Quantization",
+    "authors": ["Yao Zhu", "Xuan Ding", "Chunxiao Li", "Xiu Yan", "Chun-Wun Cheng", "Angelica I. Aviles-Rivero", "Rui Sun", "Chuanlong Xie"],
+    "year": null,
+    "category": "preprint",
+    "venue": "Under review",
+    "links": []
+  },
+  {
+    "id": "U11",
+    "title": "Mitigating Quantization–Parameterization Mismatch in LLM Post-Training Quantization",
+    "authors": ["Yudong Hu", "Yao Zhu", "Chun-Wun Cheng", "Angelica I. Aviles-Rivero", "Rui Sun"],
+    "year": null,
+    "category": "preprint",
+    "venue": "Under review",
+    "links": []
+  },
+  {
+    "id": "U10",
+    "title": "Hybrid Geometry-aware Neural Operator",
+    "authors": ["Chun-Wun Cheng", "Raymond H. Chan", "Carola-Bibiane Schönlieb", "Angelica I. Aviles-Rivero"],
+    "year": null,
+    "category": "preprint",
+    "venue": "Under review",
+    "links": []
+  },
+  {
+    "id": "U9",
+    "title": "CATO: Charted Attention for Neural PDE Operators",
+    "authors": ["Chun-Wun Cheng", "Sifan Wang", "Carola-Bibiane Schönlieb", "Angelica I. Aviles-Rivero"],
+    "year": 2026,
+    "category": "preprint",
+    "venue": "Under review",
+    "links": [{"label": "arXiv", "url": "https://arxiv.org/abs/2605.09016"}]
+  },
+  {
+    "id": "U8",
+    "title": "SpectraKAN: Conditioning Spectral Operators",
+    "authors": ["Chun-Wun Cheng", "Carola-Bibiane Schönlieb", "Angelica I. Aviles-Rivero"],
+    "year": 2026,
+    "category": "preprint",
+    "venue": "Under review",
+    "links": [{"label": "arXiv", "url": "https://arxiv.org/abs/2602.05187"}]
+  },
+  {
+    "id": "U7",
+    "title": "LEGATO: Good Identity Unlearning Is Continuous",
+    "authors": ["Qiang Chen*", "Chun-Wun Cheng*", "Xiu Su", "Hongyan Xu", "Xi Lin", "Shan You", "Angelica I. Aviles-Rivero", "Yi Chen"],
+    "year": 2025,
+    "category": "preprint",
+    "venue": "Under review",
+    "links": [{"label": "arXiv", "url": "https://arxiv.org/abs/2601.04282"}]
+  },
+  {
+    "id": "U6",
+    "title": "Product Interaction: An Algebraic Formalism for Deep Learning Architectures",
+    "authors": ["Haonan Dong", "Chun-Wun Cheng", "Angelica I. Aviles-Rivero"],
+    "year": 2025,
+    "category": "preprint",
+    "venue": "Under review",
+    "links": [{"label": "arXiv", "url": "https://arxiv.org/abs/2602.02573"}]
+  },
+  {
+    "id": "U5",
+    "title": "NeuTSFlow: Modeling Continuous Functions Behind Time Series Forecasting",
+    "authors": ["Huibo Xu", "Likang Wu", "Xianquan Wang", "Haoning Dang", "Chun-Wun Cheng", "Angelica I. Aviles-Rivero", "Qi Liu"],
+    "year": 2025,
+    "category": "preprint",
+    "venue": "Under review",
+    "links": [{"label": "arXiv", "url": "https://arxiv.org/abs/2507.09888"}]
+  },
+  {
+    "id": "U4",
+    "title": "DNA-Prior: Unsupervised Denoise Anything via Dual-Domain Prior",
+    "authors": ["Yanqi Cheng", "Chun-Wun Cheng", "Jim Denholm", "Thiago Lima", "Javier A. Montoya-Zegarra", "Richard Goodwin", "Carola-Bibiane Schönlieb", "Angelica I. Aviles-Rivero"],
+    "year": 2025,
+    "category": "preprint",
+    "venue": "Under review",
+    "links": [{"label": "arXiv", "url": "https://arxiv.org/abs/2511.23124"}]
+  },
+  {
+    "id": "U3",
+    "title": "PDE Solvers Should Be Local: Fast, Stable Rollouts with Learned Local Stencils",
+    "authors": ["Chun-Wun Cheng", "Bin Dong", "Carola-Bibiane Schönlieb", "Angelica I. Aviles-Rivero"],
+    "year": 2025,
+    "category": "preprint",
+    "venue": "Under review",
+    "links": [{"label": "arXiv", "url": "https://arxiv.org/abs/2509.26186"}]
+  },
+  {
+    "id": "U2",
+    "title": "NODE-Adapter: Neural Ordinary Differential Equations for Better Vision-Language Reasoning",
+    "authors": ["Yi Zhang", "Chun-Wun Cheng", "Ke Yu", "Zhihai He", "Carola-Bibiane Schönlieb", "Angelica I. Aviles-Rivero"],
+    "year": 2024,
+    "category": "preprint",
+    "venue": "Under review",
+    "links": [{"label": "arXiv", "url": "https://arxiv.org/abs/2407.08672"}]
+  },
+  {
+    "id": "U1",
+    "title": "Bilevel Hypergraph Networks for Multi-Modal Alzheimer’s Diagnosis",
+    "authors": ["Angelica I. Aviles-Rivero", "Chun-Wun Cheng", "Zhongying Deng", "Zoe Kourtzi", "Carola-Bibiane Schönlieb"],
+    "year": 2024,
+    "category": "preprint",
+    "venue": "Under review",
+    "links": [{"label": "arXiv", "url": "https://arxiv.org/abs/2403.12719"}]
+  }
+]

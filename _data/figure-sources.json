@@ -1,0 +1,122 @@
+{
+  "J4": {
+    "image": "https://arxiv.org/html/2410.02113v3/teaserpde.jpg",
+    "paper": "https://arxiv.org/abs/2410.02113",
+    "title": "Mamba Neural Operator",
+    "dimensions": [
+      3817,
+      1745
+    ],
+    "file": "J4.png",
+    "status": "downloaded",
+    "alt": "Mamba Neural Operator architecture, showing bidirectional scanning and S6 or Cross S6 blocks.",
+    "modifications": "None to composition; original raster saved as PNG.",
+    "verified": "2026-10-15",
+    "web_dimensions": [
+      1200,
+      549
+    ],
+    "web_file": "site-assets/figures/J4.webp",
+    "web_optimization": "Proportional resize and WebP compression; no cropping."
+  },
+  "J1": {
+    "image": "https://math-ml-x.github.io/cUNet/resources/network.png",
+    "paper": "https://openreview.net/forum?id=ongi2oe3Fr",
+    "title": "Continuous U-Net: Faster, Greater and Noiseless",
+    "dimensions": [
+      5693,
+      3142
+    ],
+    "file": "J1.png",
+    "status": "downloaded",
+    "alt": "Continuous U-Net architecture comparing continuous dynamic blocks with discrete U-Net blocks.",
+    "modifications": "None to composition; original raster saved as PNG.",
+    "verified": "2026-10-15",
+    "web_dimensions": [
+      1200,
+      662
+    ],
+    "web_file": "site-assets/figures/J1.webp",
+    "web_optimization": "Proportional resize and WebP compression; no cropping."
+  },
+  "C5": {
+    "image": "https://arxiv.org/html/2603.03187v1/PUNET-teaser.png",
+    "paper": "https://arxiv.org/abs/2603.03187",
+    "title": "ProSMA-UNet",
+    "dimensions": [
+      979,
+      567
+    ],
+    "file": "C5.png",
+    "status": "downloaded",
+    "alt": "ProSMA-UNet architecture and proximal sparse gating for explicit noise removal.",
+    "modifications": "None to composition; original raster saved as PNG.",
+    "verified": "2026-10-15",
+    "web_dimensions": [
+      979,
+      567
+    ],
+    "web_file": "site-assets/figures/C5.webp",
+    "web_optimization": "Proportional resize and WebP compression; no cropping."
+  },
+  "C2": {
+    "image": "https://math-ml-x.github.io/IUKAN2/resources/teaser.png",
+    "paper": "https://arxiv.org/abs/2503.03141",
+    "title": "Implicit U-KAN2.0",
+    "dimensions": [
+      5108,
+      3266
+    ],
+    "file": "C2.png",
+    "status": "downloaded",
+    "alt": "Implicit U-KAN2.0 architecture combining second-order neural ODE blocks and MultiKAN layers.",
+    "modifications": "None to composition; original raster saved as PNG.",
+    "verified": "2026-10-15",
+    "web_dimensions": [
+      1200,
+      767
+    ],
+    "web_file": "site-assets/figures/C2.webp",
+    "web_optimization": "Proportional resize and WebP compression; no cropping."
+  },
+  "C6": {
+    "image": "https://arxiv.org/html/2603.02012v1/figures/method.png",
+    "paper": "https://arxiv.org/abs/2603.02012",
+    "title": "MAP-Diff",
+    "dimensions": [
+      4663,
+      2317
+    ],
+    "file": "C6.png",
+    "status": "downloaded",
+    "alt": "MAP-Diff conceptual comparison, training strategy, and progressive inference trajectory.",
+    "modifications": "None to composition; original raster saved as PNG.",
+    "verified": "2026-10-15",
+    "web_dimensions": [
+      1200,
+      596
+    ],
+    "web_file": "site-assets/figures/C6.webp",
+    "web_optimization": "Proportional resize and WebP compression; no cropping."
+  },
+  "C1": {
+    "image": "https://arxiv.org/html/2412.15813v1/fig/enhanced_odefig1v11.jpg",
+    "paper": "https://arxiv.org/abs/2412.15813",
+    "title": "SONO",
+    "dimensions": [
+      2261,
+      1773
+    ],
+    "file": "C1.png",
+    "status": "downloaded",
+    "alt": "Comparison of zero-shot CLIP, CoOp, Tip-Adapter-F, and SONO adaptation.",
+    "modifications": "None to composition; original raster saved as PNG.",
+    "verified": "2026-10-15",
+    "web_dimensions": [
+      1148,
+      900
+    ],
+    "web_file": "site-assets/figures/C1.webp",
+    "web_optimization": "Proportional resize and WebP compression; no cropping."
+  }
+}
